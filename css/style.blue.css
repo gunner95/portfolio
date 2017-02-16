@@ -1400,6 +1400,14 @@ p.social a.gplus {
   background-color: #c21f25;
   border-color: #c21f25;
 }
+p.social a.linkedin {
+  background-color: #2173c2;
+  border-color: #2173c2;
+}
+p.social a.github {
+  background-color: #000000;
+  border-color: #000000;
+}
 p.social a.twitter {
   background-color: #3cf;
   border-color: #3cf;
@@ -1427,6 +1435,10 @@ p.social.social--outline a.gplus {
   color: #c21f25;
   border-color: #c21f25;
 }
+p.social.social--outline a.github {
+  color: #050101;
+  border-color: #050101;
+}
 p.social.social--outline a.twitter {
   color: #3cf;
   border-color: #3cf;
@@ -1438,6 +1450,10 @@ p.social.social--outline a.instagram {
 p.social.social--outline a.email {
   color: #4a7f45;
   border-color: #4a7f45;
+}
+p.social.social--outline a.linkedin {
+  color: #2173c2;
+  border-color: #2173c2;
 }
 p.social.social--outline a.link {
   color: #871AFF;
